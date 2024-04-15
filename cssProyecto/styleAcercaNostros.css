@@ -63,7 +63,7 @@ header nav ul li a {
 	padding: 20px;
 	margin-top: 20px;
 	text-align: center;
-	color: #7a7a7a;
+	color: #000;
     font-size: 25px;
 }
 .card{
@@ -90,7 +90,7 @@ header nav ul li a {
 }
 .card .contenido-card h3{
 	margin-bottom: 15px;
-	color: #7a7a7a;
+	color: #000;
 }
 .card .contenido-card p{
 	line-height: 1.8;
@@ -274,7 +274,7 @@ font-size: 15px;
     text-align: center;
     font-size: 35px;
     margin-bottom: 35px;
-    color: #7a7a7a;
+    color: #000;
 }
 .acordeon{
     background: #fff;
